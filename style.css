@@ -7,3 +7,7 @@ body {
     min-height: 100vh;
    
 }
+
+h2 {
+    font-style: italic;
+}
